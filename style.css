@@ -92,7 +92,7 @@ body{
   }
   
   .header-button:hover span {
-    transform: translateX(5em);
+    transform: translateX(5.5em);
   }
   
   .header-button:active {
